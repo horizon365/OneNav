@@ -3,9 +3,9 @@
 ## 页面配置
 ################
 # 作者名称
-user_name: KK
+user_name: bio-nav
 # 网站名称
-site_name: OneNav
+site_name: BioNav
 # 网站Favicon
 shortcut_icon: ./favicon.ico
 # 网站LOGO
@@ -17,11 +17,11 @@ shortcut_icon: ./favicon.ico
 # 特别的如图标 Github 使用时应填写 fa-brands fa-github
 logo: fa-solid fa-compass
 # 网站关键字
-keywords: 导航页, 导航, OneNav, GenEasy, Github, Github Pages
+keywords: 生信导航页, 生物导航, 单细胞导航, 时空导航, 生菜导航, Blast工具导航
 # 网站描述
-description: 个人网址集
+description: 您的生信网址大全
 # 个人主页
-home_url: https://www.imkk.uk/
+home_url: https://bionav.pingti.ren/
 # 个人邮箱
 email: Nav@imkk.uk
 # GitHub链接
@@ -30,6 +30,25 @@ github_url: https://github.com/MadisonWirtanen
 ## 网址链接
 ################
 categories:
+  - category: AI购物推荐
+    icon: fa-solid fa-star
+    links:
+      - title: 'AI 好物 - 智能推荐购买'
+        logo:
+        url: https://www.ai-code.online/
+        description: 我是一个AI好物推荐官，你有需求，但是不知道该买什么的时候，可以试试看，也许会给你推荐一些不错的东西哦
+      - title: '最佳平替 - 用更低价的搜索词购物'
+        logo:
+        url: https://pingti.app
+        description: '同一件商品，不同的搜索词，价格可能会天差地别。这个工具旨在帮助你找到最便宜的搜索词: 输入你想搜索的商品名，AI会给出低价的替代品，结果可能不准，开心就好 : ) 经济寒冬，商品可以平替，但你的生活无法被平替。'
+  - category: AI 其它
+    icon: fa-solid fa-star
+    links:
+      - title: 'AI时间线 - AI洞穿一切'
+        logo:
+        url: http://www.ai-timeline.top
+        description: 有时做 PPT 时，时间线是一种重要的图标，本工具帮助你轻松实现对人物，或者事件或者物品的时间线总结。
+
   - category: Star Links
     icon: fa-solid fa-star
     links:
