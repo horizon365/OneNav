@@ -30,44 +30,53 @@ email: sunnylyq@163.com
 ## 网址链接
 ################
 categories:
-  - category: AI购物推荐
+  - category: 平替购物
     icon: fa-solid fa-star
     links:
       - title: 'AI 好物 - 智能推荐购买'
-        logo:
+        logo: https://www.ai-code.online/favicon.ico
         url: https://www.ai-code.online/
         description: 我是一个AI好物推荐官，你有需求，但是不知道该买什么的时候，可以试试看，也许会给你推荐一些不错的东西哦
       - title: '最佳平替 - 用更低价的搜索词购物'
-        logo:
+        logo: https://pingti.app/favicon.ico
         url: https://pingti.app
         description: '同一件商品，不同的搜索词，价格可能会天差地别。这个工具旨在帮助你找到最便宜的搜索词: 输入你想搜索的商品名，AI会给出低价的替代品，结果可能不准，开心就好 : ) 经济寒冬，商品可以平替，但你的生活无法被平替。'
-  - category: AI 其它
+      - title: 消费平替
+        logo:
+        url: https://open-gpt.app/app/clr7vadm20002ymzb523cyoch
+        description: 输入一件商品的名称，输出一个更具性价比的商品搜索词。低价替代品，结果不准时，请会心一笑。 例如输入 “宜家推车”，输出“理发店工具车”
+  - category: AI 工具
     icon: fa-solid fa-star
     links:
       - title: 'AI时间线 - AI洞穿一切'
-        logo:
-        url: http://www.ai-timeline.top
+        logo: https://www.ai-timeline.top
+        url: https://www.ai-timeline.top
         description: 有时做 PPT 时，时间线是一种重要的图标，本工具帮助你轻松实现对人物，或者事件或者物品的时间线总结。
+      - title: Secure and Anonymous Temporary Email Service - Temp Mail.html
+        logo:
+        url: https://tempmail100.com/
+        description: 临时用的匿名邮箱
+      - title: photoshop 平替
+        logo: https://www.photopea.com/promo/icon512.png
+        url: https://www.photopea.com/
+        description: '这个在线版的 photopea 网页打开就能用，响应快速，PS 有的功能基本都有，轻量使用完全足够.再也不要为安装 ps 而苦恼了'
+      - title: 短视频解析下载
+        logo: https://twitter.iiilab.com/favicon.ico
+        url: https://twitter.iiilab.com/
+        description: 短视频解析下载平台，支持几十个热门网站，如微博、YouTube等，一键解析下载到本地
+      - title: 优品PPT
+        logo: https://www.ypppt.com/favicon.ico
+        url: https://www.ypppt.com/
+        description: '免费的 PPT 模板下载网站，无需登录直接使用，想用哪个模板直接就能下载。包含了 PPT 模板、背景、图表、素材、教程和字体各种 PPT 相关资源'
+      - title: 以图搜图
+        logo: https://yastatic.net/images-thumbs/_/8cS_MbHl6VBweqVjWeI-eNy0tzE.ico
+        url: Yandex Images
+        description: 其它搜索引擎找不到的话用它试试，没准有惊喜
+      - title: 封面视频/图片生成神器
+        logo: https://vivago.ai/favicon.ico
+        url: https://vivago.ai/explore
+        description: 封面尺寸不够AI工具来凑。之前PS的自动生图扩展功能出来就很喜欢，可惜国内用户用不了。用这个网站做平替挺好。画质也是高清，目前是免费体验使用，喜欢的收藏吧。👍好用推荐
 
-  - category: Star Links
-    icon: fa-solid fa-star
-    links:
-      - title: 主页
-        logo: https://cdn.imkk.uk/icon/svg/Home.svg
-        url: https://www.imkk.uk/
-        description: 我的主页, 欢迎访问
-      - title: 博客
-        logo: https://cdn.imkk.uk/icon/svg/Blog.svg
-        url: https://blog.imkk.uk/
-        description: 我的博客, 欢迎留言
-      - title: 监测站
-        logo: https://cdn.imkk.uk/icon/svg/CheckCircle.svg
-        url: https://monitor.imkk.uk/
-        description: 监测网站运行状态
-      - title: Email
-        logo: https://cdn.imkk.uk/icon/svg/Envelope.svg
-        url: mailto:nav@imkk.uk
-        description: 点击即可通过邮件联系我
 
   - category: Proxy
     hide_menu: true
