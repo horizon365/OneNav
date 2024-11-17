@@ -49,8 +49,8 @@ categories:
     icon: fa-solid fa-star
     links:
       - title: 'AI时间线 - AI洞穿一切'
-        logo: https://www.ai-timeline.top
-        url: https://www.ai-timeline.top
+        logo: http://www.ai-timeline.top
+        url: http://www.ai-timeline.top
         description: 有时做 PPT 时，时间线是一种重要的图标，本工具帮助你轻松实现对人物，或者事件或者物品的时间线总结。
       - title: Secure and Anonymous Temporary Email Service - Temp Mail.html
         logo:
@@ -94,6 +94,22 @@ categories:
         logo: https://cdn.imkk.uk/icon/nav/glados.ico
         url: https://glados.space/landing/9PR25-TZB9J-53PWH-NVUDY
         description: 科学上网/翻墙, 学生及教职工可通过edu邮箱获得365天的时长
+
+  - category: 网页开发
+    icon: fa-solid fa-laptop
+    links:
+      - title: 媲美 FastAPI 的后端 Django 框架
+        logo: https://django-ninja.cn/img/favicon.png
+        url: https://django-ninja.cn/
+        description: 新一代Django后端：简单好用快速
+      - title: Pydantic 中文文档
+        logo: https://pydantic.com.cn/favicon.png
+        url: https://pydantic.com.cn/
+        description: 新一代 Python 校验神器
+      - title: logfire 中文文档
+        logo: https://pydantic.com.cn/favicon.png
+        url: https://pydantic.com.cn/logfire/
+        description: ChatGPT API分发站, 有需要的可发邮件申请Key
 
   - category: 个人站点
     icon: fa-solid fa-laptop
